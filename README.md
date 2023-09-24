@@ -1,3 +1,6 @@
 # Spike756.github.io
 
-Cloned a repository and added a readme file to my desktop
+Andrew Weller 
+ajweller@my.waketech.edu
+Student account for Waketech university
+Downloaded github desktop and used the url to copy the repository to my computer. Then pushed the update to github.com
